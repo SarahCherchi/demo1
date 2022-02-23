@@ -12,3 +12,4 @@ for($i =0;$i<$nbr;$i++){
 /*foreach ($data as $d){
     print "<br>".$d['nom_ville'];
 }*/
+print "branche ajout1";
